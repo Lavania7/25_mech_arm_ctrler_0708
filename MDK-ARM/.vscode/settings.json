@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "bsp_usart.h": "c",
+        "joint.h": "c",
+        "potentiometer.h": "c",
+        "filter.h": "c",
+        "sucker.h": "c",
+        "algorithm": "c",
+        "bsp_gpio.h": "c",
+        "referee.h": "c",
+        "main.h": "c",
+        "bsp_tim.h": "c",
+        "usart.h": "c"
+    }
+}
